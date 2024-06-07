@@ -14,6 +14,6 @@ This example makes images for falcon downsampled 80%.
 It will work if you type 80% or 80
 Optional file extensions are case-sensitive
 You could either type (if you want it in /home/edward/Working/zepp_v3.5/WFWD-Active-ColorV3_Zeppos3/assets/falcon):
-# bash resize.sh falcon 80 png
+## bash resize.sh falcon 80 png
 ...or if you want everything somewhere else (folder "below" falcon must exist) you could type;
-# bash resize.sh /home/edward/Working/zepp_v3.5/resize/assets/falcon 80 png
+## bash resize.sh /home/edward/Working/zepp_v3.5/resize/assets/falcon 80 png
